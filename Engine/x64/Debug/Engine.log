@@ -1,0 +1,770 @@
+﻿  Animation.cpp
+c:\users\user\desktop\newrepo\engine\animation.cpp(12): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\user\desktop\newrepo\engine\animation.cpp(13): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\user\desktop\newrepo\engine\animation.cpp(20): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\animation.cpp(21): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  ArenaGame.cpp
+c:\users\user\desktop\newrepo\engine\arenagame.cpp(18): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\arenagame.cpp(18): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Astar.cpp
+  BossRoom.cpp
+  Bullet.cpp
+  Character.cpp
+  characterView.cpp
+c:\users\user\desktop\newrepo\engine\characterview.cpp(39): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\characterview.cpp(40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\characterview.cpp(45): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(55): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\characterview.cpp(56): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\characterview.cpp(59): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(60): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(61): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(65): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(66): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\characterview.cpp(67): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  Chest.cpp
+c:\users\user\desktop\newrepo\engine\chest.cpp(8): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\chest.cpp(9): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Door.cpp
+c:\users\user\desktop\newrepo\engine\door.cpp(13): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\door.cpp(23): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\door.cpp(24): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\desktop\newrepo\engine\door.cpp(36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\door.cpp(42): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\door.cpp(47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\door.cpp(52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Effect.cpp
+  EnemyGhost.cpp
+  EnemyWorm.cpp
+c:\users\user\desktop\newrepo\engine\enemyworm.cpp(56): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\enemyworm.cpp(57): warning C4244: "argument": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\enemyworm.cpp(57): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\enemyworm.cpp(56): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+  Engine.cpp
+c:\users\user\desktop\newrepo\engine\mainmenu.h(33): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Entity.cpp
+c:\users\user\desktop\newrepo\engine\entity.cpp(137): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\entity.cpp(136): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  FloorHole.cpp
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(33): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(56): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(61): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floorhole.cpp(62): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  FloorManager.cpp
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(156): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(158): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(170): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(181): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(204): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(206): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(220): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(221): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(222): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(229): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(230): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(241): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(243): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(246): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(254): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(260): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(267): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\user\desktop\newrepo\engine\floormanager.cpp(269): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  FollowingMonster.cpp
+  Game.cpp
+  GameOverSplashScreen.cpp
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(19): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(19): warning C4244: "argument": konwersja z "size_t" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(27): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(27): warning C4244: "argument": konwersja z "size_t" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(31): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\gameoversplashscreen.cpp(31): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  HitboxComponent.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Item.cpp
+c:\users\user\desktop\newrepo\engine\item.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\item.cpp(12): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  ItemsManager.cpp
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(15): warning C4305: "inicjowanie": obcięcie z "double" do "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(68): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(69): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(83): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(84): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(97): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(98): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(101): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\itemsmanager.cpp(102): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+  MapCollision.cpp
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(15): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(16): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(23): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(179): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mapcollision.cpp(190): warning C4244: "argument": konwersja z "int" do "const float", możliwa utrata danych
+  MovementComponent.cpp
+  NormalGame.cpp
+c:\users\user\desktop\newrepo\engine\normalgame.cpp(14): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\normalgame.cpp(15): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\normalgame.cpp(20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\normalgame.cpp(49): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\normalgame.cpp(49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Obsticle.cpp
+c:\users\user\desktop\newrepo\engine\obsticle.cpp(10): warning C4305: "argument": obcięcie z "double" do "float"
+  Player.cpp
+c:\users\user\desktop\newrepo\engine\player.cpp(20): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\player.cpp(69): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\player.cpp(75): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Player1.cpp
+  Player2.cpp
+  poteznyBoss.cpp
+c:\users\user\desktop\newrepo\engine\poteznyboss.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\poteznyboss.cpp(59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\poteznyboss.cpp(66): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\poteznyboss.cpp(73): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\poteznyboss.cpp(80): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  ResourceLoader.cpp
+  StateManager.cpp
+c:\users\user\desktop\newrepo\engine\mainmenu.h(33): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1801): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1865): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+          with
+          [
+              _Ty=Player2
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1866): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+          with
+          [
+              _Ty=Player2
+          ]
+  c:\users\user\desktop\newrepo\engine\statemanager.cpp(93): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::shared_ptr<Player2> std::make_shared<Player2,int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+  HUD.cpp
+c:\users\user\desktop\newrepo\engine\hud.cpp(15): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\hud.cpp(22): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\hud.cpp(23): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\hud.cpp(26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\hud.cpp(38): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\hud.cpp(39): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\hud.cpp(46): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\hud.cpp(52): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  ItemRoom.cpp
+  Level.cpp
+  LightManager.cpp
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(34): warning C4244: "argument": konwersja z "float" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(35): warning C4244: "argument": konwersja z "float" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(36): warning C4244: "argument": konwersja z "float" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(37): warning C4244: "argument": konwersja z "float" do "const _Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(106): warning C4244: "argument": konwersja z "_Ty" do "T", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(110): warning C4244: "argument": konwersja z "_Ty" do "T", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\lightmanager.cpp(222): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  LightSource.cpp
+c:\users\user\desktop\newrepo\engine\lightsource.cpp(7): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+  MainMenu.cpp
+c:\users\user\desktop\newrepo\engine\mainmenu.h(33): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(25): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(28): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(39): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(40): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(43): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(48): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(48): warning C4244: "argument": konwersja z "size_t" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(53): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(57): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(58): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(61): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(61): warning C4244: "argument": konwersja z "size_t" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(64): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(71): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(75): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(76): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(79): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(79): warning C4244: "argument": konwersja z "size_t" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(82): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(98): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(215): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(277): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(278): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(280): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(284): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(284): warning C4244: "argument": konwersja z "size_t" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(290): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(296): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(299): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\mainmenu.cpp(299): warning C4244: "argument": konwersja z "size_t" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Map.cpp
+c:\users\user\desktop\newrepo\engine\map.cpp(14): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+c:\users\user\desktop\newrepo\engine\menu.cpp(49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\menu.cpp(49): warning C4244: "argument": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\menu.cpp(145): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+  Generowanie kodu...
+c:\users\user\desktop\newrepo\engine\movementcomponent.cpp(39): warning C4715: "MovementComponent::getState”: niewszystkie ścieżki kodu zwracają wartość
+  Trwa kompilowanie...
+  NormalRoom.cpp
+c:\users\user\desktop\newrepo\engine\normalroom.cpp(103): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1801): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1865): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+          with
+          [
+              _Ty=EnemyWorm
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\memory(1866): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::_Ref_count_obj<_Ty>::_Ref_count_obj<int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+          with
+          [
+              _Ty=EnemyWorm
+          ]
+  c:\users\user\desktop\newrepo\engine\normalroom.cpp(40): note: zobacz odwołanie do funkcji szablon; wystąpienie „std::shared_ptr<EnemyWorm> std::make_shared<EnemyWorm,int,int,sf::Texture*>(int &&,int &&,sf::Texture *&&)” jest kompilowane
+  Object.cpp
+  Room.cpp
+c:\users\user\desktop\newrepo\engine\room.cpp(121): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  SplashScreen.cpp
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(36): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(36): warning C4244: "argument": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(37): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(48): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(48): warning C4244: "argument": konwersja z "unsigned __int64" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\splashscreen.cpp(49): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  StartRoom.cpp
+  State.cpp
+  StaticItem.cpp
+  TemporaryEffects.cpp
+  tezBoss.cpp
+  Tile.cpp
+  TileMap.cpp
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(67): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(68): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(69): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(70): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(77): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(78): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(79): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(80): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(96): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(97): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(98): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(99): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(143): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(144): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(145): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(146): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(149): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(150): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(151): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(152): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(191): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(192): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(193): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(194): warning C4244: "argument": konwersja z "unsigned int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(197): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(198): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(199): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\tilemap.cpp(200): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  TimeWidget.cpp
+c:\users\user\desktop\newrepo\engine\timewidget.cpp(20): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\timewidget.cpp(32): warning C4244: "argument": konwersja z "double" do "sf::Uint8", możliwa utrata danych
+  Universals.cpp
+c:\users\user\desktop\newrepo\engine\universals.cpp(9): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\universals.cpp(23): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\user\desktop\newrepo\engine\universals.cpp(28): warning C4244: "return": konwersja z "float" do "int", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\universals.cpp(32): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\user\desktop\newrepo\engine\universals.cpp(34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  UsableItem.cpp
+  WindowObject.cpp
+  WithTimerSplashScreen.cpp
+c:\users\user\desktop\newrepo\engine\withtimersplashscreen.cpp(13): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\withtimersplashscreen.cpp(13): warning C4244: "argument": konwersja z "size_t" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\withtimersplashscreen.cpp(15): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\withtimersplashscreen.cpp(22): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+c:\users\user\desktop\newrepo\engine\withtimersplashscreen.cpp(22): warning C4244: "argument": konwersja z "size_t" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Engine.vcxproj -> C:\Users\user\Desktop\NewRepo\x64\Debug\Engine.exe
